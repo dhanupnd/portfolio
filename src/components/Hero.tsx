@@ -54,7 +54,7 @@ const Hero: React.FC<HeroProps> = ({ theme, lang }) => {
                     >
                         <img
                             className="w-full h-full object-cover"
-                            src="/folium/Myself.webp"
+                            src="/Myself.webp"
                             alt="Dhanu Pandhowo"
                         />
                     </div>

@@ -50,7 +50,7 @@ export const translations = {
         },
         projects: [
             {
-                imageURL: '/folium/projects/TickTime.webp',
+                imageURL: '/projects/TickTime.webp',
                 title: 'TickTime',
                 description:
                     'A web-based online timer application with additional features that allow users to customize the alarm sound.',
@@ -65,7 +65,7 @@ export const translations = {
                 githubURL: 'https://github.com/dhanupnd/TickTime',
             },
             {
-                imageURL: '/folium/projects/Summitz.webp',
+                imageURL: '/projects/Summitz.webp',
                 title: 'Summitz',
                 description:
                     'A web-based application that offers open trip mountain climbing services in Indonesia.',
